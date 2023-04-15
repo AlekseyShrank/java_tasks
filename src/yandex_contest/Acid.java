@@ -64,7 +64,6 @@ public class Acid {
 //                max=a[i];
 //                break;
 //            }
-//            System.out.println("еблан");
 //            if(min > a[i]){
 //                System.out.println(-1);
 //                System.exit(0);
